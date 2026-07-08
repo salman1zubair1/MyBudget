@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+*.user
+.idea/
+expenses.json
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
