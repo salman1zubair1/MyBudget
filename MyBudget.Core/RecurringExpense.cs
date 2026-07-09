@@ -12,7 +12,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace MyBudget.Core
-{ 
+{
 
     public sealed record RecurringExpense( Guid Id, string Description, decimal Amount,
         ExpenseCategory Category, DateOnly Date, int TimesPerMonth)
